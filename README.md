@@ -58,11 +58,11 @@
 
 ## 📚 Education
 
-**MSc Software Engineering**  
+**Software Engineering**  
 Technical University of Košice (2021-2025)  
 Focus: Distributed Systems, Advanced Algorithms, AI Ethics  
 
-**BSc Technical Lyceum - Intelligent Systems**  
+**Technical Lyceum - Intelligent Systems**  
 SOŠIT Ostrovského 1 (2017-2021)  
 Graduated with honors in Programming & Systems Design  
 
@@ -81,5 +81,3 @@ Graduated with honors in Programming & Systems Design
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/alexander-bodnarr)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail)](mailto:alexanderbodnar2015@gmail.com)
-
-⭐ **Fun Fact**: Developed my first ML model for medical imaging at 18!
