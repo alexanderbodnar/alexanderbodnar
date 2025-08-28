@@ -30,5 +30,5 @@
 
 ## 🌐 Connect
 
-- [LinkedIn]((https://www.linkedin.com/in/alexander-bodnarr/))
+- [LinkedIn](https://www.linkedin.com/in/alexander-bodnarr/)
 - Email: alexanderbodnar2015@gmail.com
