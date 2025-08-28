@@ -7,10 +7,8 @@
 ## 🚀 Technical Profile
 
 - **Full-Stack Developer** | **ML Engineer** | **Automation Specialist**
-- Currently pursuing a Master's degree in Software Engineering at TUKE Košice
-- Working @ Deutsche Telekom Services Europe Slovakia
-- Certified: PCAP (Python Institute), CLA (C++ Institute), IT Essentials & CCNA (Cisco)
-- Fluent in 4 languages: Slovak (C2), Hungarian (C1), English (B2), German (A2)
+- Currently pursuing a Master's degree in Software Engineering
+- Fluent in 3 languages: Slovak, Hungarian, English
 
 ---
 
@@ -38,15 +36,10 @@
 - CI/CD (Beginner)
 - Microsoft Office (Advanced)
 
-#### Other
-- Data Cleaning & Processing
-- Workflow Automation Tools Development
-
 ---
 
 ## 📊 GitHub Activity
 
-<!-- GitHub Stats Badges (replace 'alexanderbodnar' if needed) -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexanderbodnar&show_icons=true&hide_title=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=alexanderbodnar&layout=compact&hide_title=true&theme=radical)
 
