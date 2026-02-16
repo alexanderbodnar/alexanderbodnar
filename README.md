@@ -63,21 +63,12 @@
 - [LinkedIn](https://www.linkedin.com/in/alexander-bodnarr/)
 - Email: alexanderbodnar2015@gmail.com
 
-
-## 📌 Pinned Repositories
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
 
 <div align="center">
-  <a href="https://github.com/alexanderbodnar/threejs-moon-visualization">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexanderbodnar&repo=threejs-moon-visualization&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/alexanderbodnar/qb-vendingmachine">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexanderbodnar&repo=qb-vendingmachine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/alexanderbodnar/portfolio-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexanderbodnar&repo=portfolio-web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF" />
-  </a>
-  <a href="https://github.com/alexanderbodnar/alexanderbodnar.github.io">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexanderbodnar&repo=alexanderbodnar.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF" />
-  </a>
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-6AD3F7?style=for-the-badge" />
+  <br>
+  <img src="https://img.shields.io/badge/⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful!-FFD700?style=for-the-badge" />
 </div>
 
