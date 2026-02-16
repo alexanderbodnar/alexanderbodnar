@@ -56,6 +56,7 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/alexanderbodnar/alexanderbodnar/output/github-snake-dark.svg" />
   </picture>
 </div>
+
 ---
 
 ## 🌐 Connect
