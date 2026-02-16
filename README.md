@@ -44,9 +44,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alexanderbodnar&bg_color=0D1117&color=6AD3F7&line=6AD3F7&point=FFFFFF&area=true&area_color=6AD3F7&hide_border=true" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexanderbodnar&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%" />
-</div>
 
 <!-- Contribution Snake Animation -->
 <div align="center">
