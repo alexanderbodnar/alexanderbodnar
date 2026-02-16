@@ -62,3 +62,22 @@
 
 - [LinkedIn](https://www.linkedin.com/in/alexander-bodnarr/)
 - Email: alexanderbodnar2015@gmail.com
+
+
+## 📌 Pinned Repositories
+
+<div align="center">
+  <a href="https://github.com/alexanderbodnar/threejs-moon-visualization">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexanderbodnar&repo=threejs-moon-visualization&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/alexanderbodnar/qb-vendingmachine">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexanderbodnar&repo=qb-vendingmachine&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/alexanderbodnar/portfolio-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexanderbodnar&repo=portfolio-web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF" />
+  </a>
+  <a href="https://github.com/alexanderbodnar/alexanderbodnar.github.io">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=alexanderbodnar&repo=alexanderbodnar.github.io&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF" />
+  </a>
+</div>
+
