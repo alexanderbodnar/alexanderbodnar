@@ -16,14 +16,6 @@
 
 ## 📊 GitHub Activity
 
-<!-- GitHub Readme Stats - Main Stats Card -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexanderbodnar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&text_color=FFFFFF&ring_color=6AD3F7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexanderbodnar&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&text_color=FFFFFF" />
-</div>
-
-<br>
-
 <!-- GitHub Streak Stats -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alexanderbodnar&theme=tokyonight&hide_border=true&background=0D1117&stroke=6AD3F7&ring=6AD3F7&fire=FF6B6B&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6AD3F7&sideLabels=6AD3F7&dates=888888" />
